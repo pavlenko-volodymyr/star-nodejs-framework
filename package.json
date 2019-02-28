@@ -1,0 +1,8 @@
+{
+  "name": "star-nodejs-framework",
+  "version": "0.0.1",
+  "description": "Star nodejs framework",
+  "main": "index.js",
+  "author": "Volodymyr Pavlenko",
+  "license": "MIT"
+}
