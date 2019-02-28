@@ -4,5 +4,11 @@
   "description": "Star nodejs framework",
   "main": "index.js",
   "author": "Volodymyr Pavlenko",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start:dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "nodemon": "^1.18.10"
+  }
 }
